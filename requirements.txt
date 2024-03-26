@@ -1,0 +1,16 @@
+-e .
+
+pycaret
+pandas
+pycaret[analysis]
+pycaret[models]
+pycaret[tuner]
+pycaret[mlops]
+pycaret[parallel]
+pycaret[test]
+pycaret[analysis,models]
+numpy 
+seaborn
+matplotlib
+scikit-learn
+
